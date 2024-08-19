@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Integrated Risk Library**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning ** Advanced Node.js**
 
 - 👨‍💻 All of my projects are available at [https://amishasahu1.github.io/react-portfolio/](https://amishasahu1.github.io/react-portfolio/)
 
