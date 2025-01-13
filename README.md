@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amishasahu1.github.io/react-portfolio/](https://amishasahu1.github.io/react-portfolio/)
 
-- 💬 Ask me about **JavaScript, React, DSA**
+- 💬 Ask me about **Java, React, SpringBoot DSA**
 
 - 📫 How to reach me **amisha.amar999@gmail.com**
 
